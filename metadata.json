@@ -1,0 +1,5 @@
+{
+  "name": "DreamCanvas AI",
+  "description": "Premium AI Image Generation Platform using Gemini 2.5 and Clerk Auth.",
+  "requestFramePermissions": []
+}
